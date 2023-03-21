@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Gowun Dodum", sans-serif;
+  background-color: #4d455d;
+}
+header {
+}
+table {
+  font-family: "Gowun Dodum", sans-serif;
+  margin: 50px auto;
+  border-collapse: collapse;
+  background-color: #f5e9cf;
+}
+
+th {
+  font-family: "Gowun Dodum", sans-serif;
+  background-color: #7db9b6;
+  padding: 10px 20px;
+  text-align: left;
+}
+td {
+  font-family: "Gowun Dodum", sans-serif;
+  border: 1px solid #e5e5e5;
+  padding: 10px 20px;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+a {
+  color: #4d455d;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  color: #e96479;
+}
